@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hej, jag heter Hossain! 👋
 
-<!--
-**Hossain-Al-Hejami/Hossain-Al-Hejami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Systemutvecklarstudent på JENSEN YH | Webbutvecklare | Artifex AH**
 
-Here are some ideas to get you started:
+Jag studerar till systemutvecklare på JENSEN Yrkeshögskola och har sedan tidigare erfarenhet av webbutveckling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Jag driver även företaget **Artifex AH**. Jag tycker om att arbeta med teknik, lösa problem och utveckla digitala lösningar som fungerar bra i praktiken.
+
+### Vad jag gör just nu
+- Studerar till systemutvecklare på JENSEN YH.
+- Utvecklar mina kunskaper inom programmering och systemutveckling.
+- Driver mitt företag Artifex AH.
+- Arbetar med egna projekt för att få mer praktisk erfarenhet.
+
+### Projekt
+Här på GitHub delar jag projekt från min utbildning och sådant jag bygger på egen hand.
+
+### Kontakt
+- **LinkedIn:** [Hussein Al-Hejami](https://www.linkedin.com/in/hussein-al-hejami)
+- **E-post:** [hossainalhejami03@gmail.com](mailto:hossainalhejami03@gmail.com)
+- **Portfolio:** Kommer snart
