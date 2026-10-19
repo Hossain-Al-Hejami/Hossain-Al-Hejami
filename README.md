@@ -1,4 +1,4 @@
-# Hi, I'm Hossain 👋...
+# Hi, I'm Hossain 👋
 
 **Software Development Student at JENSEN YH | Web Developer | Artifex AH**
 
